@@ -1,2 +1,13 @@
-# art-gallery-website
-A responsive art gallery website built using HTML and CSS with a focus on clean and aesthetic design.
+# Art Gallery Website
+
+## Description
+This project is a simple and visually appealing art gallery website built using HTML and CSS.
+
+## Features
+- Clean and aesthetic layout
+- Image gallery display
+- Responsive design
+
+## Technologies Used
+- HTML
+- CSS
